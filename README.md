@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sat-din/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Sat Din](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sat-din/) |
+| **Get License** | [Official Music Licensing for Sat Din](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sat-din/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> নিঝুম রাতে অন্ধকারে খুঁজি তোমার মুখ
+> হারিয়ে যাওয়া স্মৃতির মাঝে অবাধ্য এক সুখ.. অবাধ্য সুখ..
+> সাতটা দিনের সাতটা রঙে জড়ালে আমায়
+> কেন আজো তোমার ছায়া এই মনে কাঁদায়
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
